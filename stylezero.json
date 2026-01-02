@@ -1,7 +1,7 @@
 {
 	"in_directory":"src",
 	"out_directory":"node_modules/stylezero/cache",
-	"extensions":[".js",".ts",".jsx",".tsx",".vue",".svelte"],
+	"extensions":[".js",".vue"],
 	"css_file":"src/assets/stylezero.css",
 	"css_directory":"public/stylezero",
 	"js_directory":"public/stylezero",
