@@ -1,6 +1,5 @@
 <script setup>
 	import{RouterLink,RouterView}from'vue-router';
-	import AppButton from'@/component/AppButton.vue';
 	import app from'@/app.js';
 </script>
 
