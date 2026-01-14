@@ -1,6 +1,6 @@
 {
 	"in_directory":"src",
-	"out_directory":"public/stylezero/src",
+	"out_directory":"public/cache/stylezero",
 	"extensions":[".vue",".js"],
 	"css_file":"public/assets/stylezero/global.css",
 	"css_directory":"public/assets/stylezero",
