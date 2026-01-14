@@ -1,6 +1,7 @@
 <script setup>
 	import{RouterLink,RouterView}from'vue-router';
-	import app from'@/app.js';
+	import{init,base}from'@/app.js';
+	init();
 </script>
 
 <template>
