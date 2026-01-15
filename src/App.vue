@@ -1,7 +1,7 @@
 <script setup>
 	import{RouterLink,RouterView}from'vue-router';
 	import{init,base}from'@/app.js';
-	init()
+	init();
 </script>
 
 <template>
